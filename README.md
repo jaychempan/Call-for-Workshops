@@ -12,18 +12,18 @@ It is easy to overlook some submission channels for workshops with a fast review
 
 | 📌 **Conference** | 📅 **Date** | 📍 **Location** | ⏳ **Submission Deadline** | 🔗 **Workshop Link** |
 |-------------------|------------|----------------|--------------------|--------------------|
-| **ICCV 2025** *(International Conference on Computer Vision)* | **October 19-20th, 2025** |  Hawaii, Honolulu | **April 15, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop) |
-| **ICML 2025** *(International Conference on Machine Learning)* | **July 12-18, 2025** | Vienna, Austria | **April 15, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop) |
-| **CVPR 2025** *(Conference on Computer Vision and Pattern Recognition)* | **June 16-20, 2025** | Seattle, USA | **March 31, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop)|
 | **NeurIPS 2025** *(Conference on Neural Information Processing Systems)* | **December 6-12, 2025** | Montreal, Canada | **August 1, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop) |
+| **ICCV 2025** *(International Conference on Computer Vision)* | **October 19-23, 2025** | Honolulu, Hawaii | **March 7, 2025** | [Workshops](https://iccv.thecvf.com/Conferences/2025/CallForWorkshops) [OpenReview](https://openreview.net/group?id=thecvf.com/ICCV/2025/Conference) |
+| **CVPR 2025** *(Conference on Computer Vision and Pattern Recognition)* | **June 16-20, 2025** | Seattle, USA | **March 31, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop)|
 | **IJCAI 2025** *(International Joint Conference on Artificial Intelligence)* | **August 19-25, 2025** | Yokohama, Japan | **May 10, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop) |
 | **KDD 2025** *(Knowledge Discovery and Data Mining Conference)* | **August 14-18, 2025** | Singapore | **April 30, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop) |
-
+| **ICML 2025** *(International Conference on Machine Learning)* | **July 12-18, 2025** | Vienna, Austria | **April 15, 2025** | [[Workshops]](https://cvpr.thecvf.com/Conferences/2025/WorkshopProposals) [[Openreview]](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop) |
 ---
 
-## 🌍 2025 Workshop for Remote Sensing 
+## 🛰️ 2025 Workshop for Remote Sensing 
 
-ICLR
+### ICLR2025
+[3rd ICLR Workshop on Machine Learning for Remote Sensing](https://openreview.net/forum?id=DCAZxlz3x7)
 
 
 ---
